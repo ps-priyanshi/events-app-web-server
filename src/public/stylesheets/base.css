@@ -8,3 +8,13 @@ table { border-collapse: collapse; border-spacing: 0; }   /* cellspacing="0" */
 /* vertical align */
 th, td { vertical-align: top; }
 
+.form-row {
+    padding: 3px;
+    display: flex;
+}
+
+.form-input {
+    padding: 2px;
+    margin-left: 5px;
+}
+
